@@ -71,3 +71,10 @@ footer p{
     text-align: center;
     font-size: 12px;
 }
+
+.experiences{
+    width: 5%%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
